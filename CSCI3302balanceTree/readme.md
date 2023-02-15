@@ -9,7 +9,7 @@ Section: 02
 - Check the tree 
 
 # Video Link:-
-
+https://youtu.be/_hEYz2luMcE
 
 # CODE
 https://github.com/MuhammadimYusoff/CSCI3302balanceTree
